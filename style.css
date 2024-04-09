@@ -10,7 +10,7 @@ body {
 }
 .container {
   /* border: 2px solid red; */
-  width: 450px;
+  width: 400px;
   height: 750px;
   background: linear-gradient(
     to bottom,
@@ -64,7 +64,7 @@ body {
   align-items: center;
   justify-content: space-between;
   padding: 0.9rem 2rem;
-  width: 400px;
+  width: 350px;
   border-radius: 9px;
   background-color: rgba(255, 255, 255, 0.795);
   margin: 1rem;
